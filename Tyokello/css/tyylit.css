@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {	
+	height: 100%;
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	background-image: url("../img/nature_1.jpg");
+	background: opacity 0.2;
+	
+}
+
+image {
+	opacity: 0.2;
+}
+
+#aika {
+	padding-top: 500px;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 200px;
+	padding-right: 10px;	
+}
+
+#sekunnit {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 100px;
+	position: fixed;
+}
+
