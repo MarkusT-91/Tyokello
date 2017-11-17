@@ -5,25 +5,29 @@ body {
 	text-align: center;
 	margin: 0 auto;
 	position: relative;
-	background-image: url("../img/nature_1.jpg");
-	background: opacity 0.2;
-	
+	background-image: url("../img/nature_1.jpg");	
 }
 
-image {
-	opacity: 0.2;
+#sisalto {
+	
 }
 
 #aika {
 	padding-top: 500px;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 200px;
-	padding-right: 10px;	
+	color: #FAFAFA;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px #212121;
+	padding-right: 10px;
+	
 }
 
 #sekunnit {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 100px;
+	color: #FAFAFA;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px #212121;
 	position: fixed;
+	
 }
 
