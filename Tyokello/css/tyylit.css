@@ -5,11 +5,12 @@ body {
 	text-align: center;
 	margin: 0 auto;
 	position: relative;
-	background-image: url("../img/nature_1.jpg");	
+	background-image: url("../img/aallot.jpeg");	
 }
 
 #sisalto {
-	
+	padding-top: 250px;
+	text-align: center;
 }
 
 #aika {
